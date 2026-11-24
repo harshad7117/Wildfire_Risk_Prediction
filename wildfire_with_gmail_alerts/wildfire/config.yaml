@@ -1,0 +1,13 @@
+gmail:
+  from_email: "tanviwaingade27@gmail.com"
+  app_password: "fezx wana nxnv qsbj"
+
+alerts:
+  threshold: 0.7
+  recipients:
+    email:
+      - "tmwaingade27@gmail.com"
+      - "tazeenjamadar6@gmail.com"
+      - "patilharshad996@gmail.com"
+      - "dhananjaykadam827@gmail.com"
+    

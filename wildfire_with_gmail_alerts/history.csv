@@ -1,0 +1,4 @@
+timestamp,latitude,longitude,temperature,humidity,wind_speed,vegetation_index,probability,risk_label
+2025-10-04 13:49:04,34.0,-118.0,35,40,15,0.7,0.82,🔥 HIGH RISK
+2025-10-04 13:53:46,34.0,-118.0,35,40,15,0.7,0.82,🔥 HIGH RISK
+2025-10-04 14:05:52,34.0,-118.0,35,40,15,0.7,0.0,🟢 LOW / MODERATE RISK

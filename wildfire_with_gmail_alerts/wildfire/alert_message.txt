@@ -1,0 +1,6 @@
+🚨 WILDFIRE ALERT 🚨
+Location: {lat}, {lon}
+Risk Probability: {probability}%
+
+Immediate action required!
+Notify local authorities and prepare evacuation measures.
